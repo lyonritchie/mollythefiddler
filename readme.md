@@ -1,0 +1,3 @@
+# Readme
+
+A static site.
