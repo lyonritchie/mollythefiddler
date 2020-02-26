@@ -1,0 +1,54 @@
+<section
+  class="{{ section.background-color }}"
+  id="{{ section.title | slugify }}"
+>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h2 class="section-heading">{{ section.title }}</h2>
+        <hr class="light" />
+        {{ section.content }}
+        
+        <figure>
+          <figcaption>
+            Dick Gossip's And Hunter's House
+          </figcaption>
+          <audio controls>
+            <source
+              src="audio/dick_gossips_and_hunters_house.mp3"
+              type="audio/mp3"
+            />
+
+            <p>
+              Your browser doesn't support HTML5 audio. Here is a
+              <a href="audio/dick_gossips_and_hunters_house.mp3"
+                >link to the audio</a
+              >
+              instead.
+            </p>
+          </audio>
+        </figure>
+        <figure>
+          <figcaption>
+            Wheels Of The World and Chapel Bell
+          </figcaption>
+          <audio controls>
+            <source
+              src="audio/wheels_of_the_world_and_chapel_bell.mp3"
+              type="audio/mp3"
+            />
+
+            <p>
+              Your browser doesn't support HTML5 audio. Here is a
+              <a href="audio/wheels_of_the_world_and_chapel_bell.mp3"
+                >link to the audio</a
+              >
+              instead.
+            </p>
+          </audio>
+        </figure>
+        
+      </div>
+    </div>
+  </div>
+</section>

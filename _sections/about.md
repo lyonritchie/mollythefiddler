@@ -10,6 +10,7 @@ background-color:
 include: sections/section.html
 ---
 
+![Molly Thompson](img/molly1.jpg){: .col-lg-4 .pull-right .img-rounded}
 Molly grew up just west of Cleveland and played the violin throughout grade school, riding her bicycle to private lessons before she was old enough to drive. She performed classical music in school and at recitals, but was drawn to the rhythms of Cape-Breton, Scottish and Irish music.
 
 Before college, she had the opportunity to travel to Ireland and meet with John 'the Tae' Gallagher of Ardara, County Donegal. John taught Molly her first few traditional tunes, and she returned to Donegal in 2001 to attend the Donegal Fiddle Summer School in Gleann Cholm Cille, studying with Ronan Gavin.

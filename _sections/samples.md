@@ -7,7 +7,5 @@ order: 4
 background-color: 
 # Set the display order for this section
 # Specify the layout for this section
-include: sections/section.html
+include: sections/samples.html
 ---
-
-*Coming Soon!*

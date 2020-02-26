@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Harrington';
+    src: url('subset-Harrington.eot');
+    src: local('Harrington'),
+        url('subset-Harrington.eot?#iefix') format('embedded-opentype'),
+        url('subset-Harrington.woff2') format('woff2'),
+        url('subset-Harrington.woff') format('woff'),
+        url('subset-Harrington.ttf') format('truetype'),
+        url('subset-Harrington.svg#Harrington') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

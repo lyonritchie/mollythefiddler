@@ -160,7 +160,7 @@ header {
     @include background-cover;
     background-position: center;
     background-color: rgba( $theme-primary, 0.9 );
-    // background-image: url('../img/mollythefiddler_mockup-1-0.jpg');
+    background-image: url('../img/mtf_mockup_header_bg.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -170,7 +170,8 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                font-weight: 700;
+                font-family: 'Harrington';
+                // font-weight: 700;
                 // text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;

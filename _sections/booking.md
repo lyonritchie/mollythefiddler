@@ -17,4 +17,4 @@ When inquiring about booking, provide information about the occasion, time and d
 Please remember that the St. Patrick's Day season is busy for Irish musicians, so it's best to book your performers early. The St. Patrick's Parade Day in Pittsburgh is always the Saturday *before* the holiday, unless the holiday itself falls on a Saturday.
 
 <div class="col-lg-8 col-lg-offset-2 text-center">
-<a href="#contact" class="btn btn-primary btn-xl">Get Started!</a></div>
+<a href="#contact" class="btn btn-primary btn-xl">Contact Molly</a></div>
