@@ -1,7 +1,7 @@
 ---
 layout: front
 title: Donegal Fiddling
-order: 3
+order: 4
 ## Set the background color.
 # One of bg-primary, bg-secondary, or empty:
 background-color: 

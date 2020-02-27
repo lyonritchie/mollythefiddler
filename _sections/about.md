@@ -1,7 +1,7 @@
 ---
 layout: front
 title: About
-order: 1
+order: 2
 ## Set the background color.
 # One of bg-primary, bg-secondary, or empty:
 background-color: 

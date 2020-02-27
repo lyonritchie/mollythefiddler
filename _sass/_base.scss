@@ -71,6 +71,13 @@ aside {
     padding: 0;
 }
 
+// Google form workaround (use their form header)
+#contact {
+    h2.section-heading, hr {
+    display: none;
+  }
+}
+
 // Navigation
 
 .navbar-default {
@@ -190,6 +197,9 @@ header {
                 margin-bottom: 0;
                 color: $theme-secondary;
                 text-shadow: 0px 5px 10px $theme-dark;
+            }
+            h2 {
+              font-family: 'Harrington';              
             }
             hr {
                 margin: 30px auto;
