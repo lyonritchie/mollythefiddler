@@ -1,6 +1,7 @@
 ---
 layout: front
 title: Contact
+published: true
 order: 10
 ## Set the background color.
 # One of bg-primary, bg-secondary, or empty:

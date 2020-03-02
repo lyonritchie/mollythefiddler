@@ -1,6 +1,7 @@
 ---
-title: Donegal Fiddling
 layout: front
+title: Donegal Fiddling
+published: true
 order: 4
 background-color: null
 include: sections/section.html

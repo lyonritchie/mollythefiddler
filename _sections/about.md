@@ -1,6 +1,7 @@
 ---
 layout: front
 title: About
+published: true
 order: 2
 ## Set the background color.
 # One of bg-primary, bg-secondary, or empty:

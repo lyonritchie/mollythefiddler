@@ -1,6 +1,7 @@
 ---
 layout: front
 title: Welcome to mollythefiddler.com
+published: true
 order: 1
 ## Set the background color.
 # One of bg-primary, bg-secondary, or empty:
