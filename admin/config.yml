@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lyonritchie.github.io
+  repo: lyonritchie.github.io/mollythefiddler
   branch: master
   site_domain: mtf-web.netlify.com
 
