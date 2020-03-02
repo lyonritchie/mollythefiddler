@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: lyonritchie.github.io
+  branch: master
+  site_domain: mtf-web.netlify.com
+
+media_folder: "img/uploads"
+
+collections:
+  - name: "sections" # Used in routes, e.g., /admin/collections/blog
+    label: "MTF WEB" # Used in the UI
+    folder: "_sections/" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string", hint: "Specify the layout for this section"}
+      - {label: "Order", name: "order", widget: "integer", hint: "Set the display order for this section"}
+      - {label: "Background Color", name: "background-color", widget: "string", hint: "Background color for this section. One of bg-primary, bg-secondary, or empty"}
+      - {label: "Body", name: "body", widget: "markdown"}
