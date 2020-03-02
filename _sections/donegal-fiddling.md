@@ -15,4 +15,3 @@ Molly says, "I love the spirited approach, technical challenges and variety foun
   <p>I love the spirited approach, technical challenges and variety found in Donegal fiddling. It is a wonderful style to play for dancing and listening. I have picked up some variations during my years in Pittsburgh but stay fairly close to my primary influence. The tradition is lively and compelling.</p>
   <footer class="blockquote-footer text-faded">Molly Thompson</footer>
 </blockquote>
-<!-- test --/>
