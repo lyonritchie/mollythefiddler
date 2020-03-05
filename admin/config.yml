@@ -4,10 +4,13 @@ backend:
   branch: master
   site_domain: objective-rosalind-95e065.netlify.com
 
-media_folder: "img"
+media_folder: "/img"
+
 
 collections:
   - name: "sections" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: false
     label: "MTF WEB" # Used in the UI
     folder: "_sections/" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
@@ -15,7 +18,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Published", name: "published", widget: "boolean", required: false}
-      - {label: "Layout", name: "layout", widget: "string", hint: "Specify the layout for this section"}
+      # - {label: "Layout", name: "layout", widget: "string", hint: "Specify the layout for this section"}
       - {label: "Order", name: "order", widget: "number", hint: "Set the display order for this section"}
       - {label: "Background Color", name: "background-color", widget: "string", required: false, hint: "Background color for this section. One of bg-primary, bg-secondary, or empty"}
       - {label: "Body", name: "body", widget: "markdown"}
