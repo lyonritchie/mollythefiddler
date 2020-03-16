@@ -3,16 +3,10 @@ layout: front
 title: About
 published: true
 order: 2
-## Set the background color.
-# One of bg-primary, bg-secondary, or empty:
-background-color: 
-# Set the display order for this section
-# Specify the layout for this section
+background-color: null
 include: sections/section.html
 ---
-
-![Molly Thompson](/img/molly1.jpg){: .col-lg-4 .pull-right .img-rounded}
-Molly grew up just west of Cleveland and played the violin throughout grade school, riding her bicycle to private lessons before she was old enough to drive. She performed classical music in school and at recitals, but was drawn to the rhythms of Cape-Breton, Scottish and Irish music.
+![Molly Thompson](/img/molly1.jpg){: .col-lg-4 .pull-right .img-rounded} Molly grew up just west of Cleveland and played the violin throughout grade school, riding her bicycle to private lessons before she was old enough to drive. She performed classical music in school and at recitals, but was drawn to the rhythms of Cape-Breton, Scottish and Irish music.
 
 Before college, she had the opportunity to travel to Ireland and meet with John 'the Tae' Gallagher of Ardara, County Donegal. John taught Molly her first few traditional tunes, and she returned to Donegal in 2001 to attend the Donegal Fiddle Summer School in Gleann Cholm Cille, studying with Ronan Gavin.
 
@@ -22,6 +16,6 @@ Away from the music, she works independently as a Certified Medical Illustrator,
 
 <div class="card">
 <div class="card-body">
-Note: The violin <em>is</em> the same instrument as the fiddle. I am asked about this often. The difference is in the musical style being played. There is also some variation in the posture and hand positions of the player, the type of strings used, and sometimes in the shape of the bridge on the instrument.
+Note: The violin <em>is</em> the same instrument as the fiddle. The difference is in the musical style being played. There is also some variation in the posture and hand positions of the player, the type of strings used, and sometimes in the shape of the bridge on the instrument.
 </div>
 </div>
