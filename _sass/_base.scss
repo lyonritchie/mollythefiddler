@@ -189,7 +189,7 @@ header {
         padding: 100px 15px 100px;
         width: 100%;
         .header-content-inner {
-            h1 {
+            h1, h2 {
                 font-family: 'Harrington';
                 // font-weight: 700;
                 // text-transform: uppercase;
@@ -199,7 +199,9 @@ header {
                 text-shadow: 0px 5px 10px $theme-dark;
             }
             h2 {
-              font-family: 'Harrington';              
+              font-family: 'Harrington';
+              color: white;
+              margin-bottom: 1em;            
             }
             hr {
                 margin: 30px auto;
