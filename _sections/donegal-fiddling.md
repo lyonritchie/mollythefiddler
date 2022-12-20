@@ -10,5 +10,5 @@ include: sections/section.html
 
 <blockquote class="blockquote bg-primary">
   <p>I love the spirited approach, technical challenges and variety found in Donegal fiddling. It is a wonderful style to play for dancing and listening. I have picked up some variations over the years but stay fairly close to my primary influence. The tradition is lively and compelling.</p>
-  <footer class="blockquote-footer text-faded">Molly Thompson</footer>
+  <footer class="blockquote-footer text-faded">Molly McCarthy</footer>
 </blockquote>
