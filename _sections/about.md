@@ -10,7 +10,7 @@ include: sections/section.html
 
 Before college, she had the opportunity to travel to Ireland and meet with John 'the Tae' Gallagher of Ardara, County Donegal. John taught Molly her first few traditional tunes, and she returned to Donegal in 2001 to attend the Donegal Fiddle Summer School in Gleann Cholm Cille, studying with Ronan Gavin.
 
-Molly performed with a few rock/alternative bands in college and continued to practice her Irish music. When she moved to Pittsburgh in 2008 she began to meet other Irish musicians, expand her tune archive and perform locally at festivals, pubs and ceili dances.
+Molly performed with rock/alternative bands in college and continued to practice her Irish music. When she moved to Pittsburgh in 2008 she began to meet other Irish musicians, expand her tune archive and perform locally at festivals, pubs and ceili dances.
 
 Away from the music, she works independently as a Certified Medical Illustrator, creating images for scientific journals, hospitals and other healthcare communications. She serves as the Exhibition Committee Co-Chair for the Pittsburgh Society of Illustrators and is a professional member of the Association of Medical Illustrators.
 
