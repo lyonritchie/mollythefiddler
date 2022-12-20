@@ -2,7 +2,7 @@
 layout: front
 title: Molly's Background
 published: true
-order: 2
+order: 3
 background-color: null
 include: sections/section.html
 ---
