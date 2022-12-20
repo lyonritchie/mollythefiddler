@@ -1,6 +1,6 @@
 ---
 layout: front
-title: About Molly
+title: Welcome
 published: true
 order: 1
 background-color: null
