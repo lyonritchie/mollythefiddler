@@ -2,7 +2,7 @@
 layout: front
 title: Booking
 published: true
-order: 3
+order: 2
 background-color: null
 include: sections/section.html
 ---
