@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Welcome to mollythefiddler.com
+title: About Molly
 published: true
 order: 1
 background-color: null
