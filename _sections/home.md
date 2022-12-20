@@ -6,7 +6,7 @@ order: 1
 background-color: null
 include: sections/section.html
 ---
-Molly Thompson McCarthy is an active Irish fiddler in northwestern Pennsylvania and Ohio, primarily influenced by the Donegal tradition.
+Molly Thompson McCarthy is a fiddler in northwestern Pennsylvania, primarily influenced by the Donegal tradition.
 
 She plays with or without accompaniment and performs for both public and private events.
 
