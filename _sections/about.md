@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Molly's Background
+title: About
 published: true
 order: 3
 background-color: null
